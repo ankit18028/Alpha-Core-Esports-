@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1498902899407720530/1499738502877675592/1777635346637.jpg" alt="Alpha Core eSports Banner" width="100%">
+  <img src="https://cdn.discordapp.com/attachments/1498902899407720530/1499738502877675592/1777635346637.jpg?ex=69f5e3d2&is=69f49252&hm=a627e6aad7e7a0ca8c557f1c658fba9afd308411902ed2da83347b5e77ce631c&" alt="Alpha Core eSports Banner" width="100%">
 </p>
 
 <h1 align="center">🔥 Alpha Core eSports</h1>
