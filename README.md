@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1498902899407720530/1499738502877675592/1777635346637.jpg" alt="Alpha Core eSports Banner" width="100%">
+</p>
+
+<h1 align="center">🔥 Alpha Core eSports</h1>
 # Alpha-Core-Esports-
 Alpha Core eSports is a trusted and legit Free Fire server where regular scrims and tournaments are hosted with big prize pools 🏆. Compete with skilled players, enjoy fair matches, and prove your gameplay. Active community, live matches, and real competitive vibes. Join now and start winning!
 🔥 Alpha Core eSports
