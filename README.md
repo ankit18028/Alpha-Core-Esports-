@@ -34,6 +34,7 @@ Whether you are a beginner or a pro player, you will get the opportunity to test
 - Owner: Alpha Ravi
 - Manager: Alpha Aman
 - Head Admin / DC Manager: Ankit Thakur
+- Production Head : Rito
 
 🔗 Join Our Community
 
