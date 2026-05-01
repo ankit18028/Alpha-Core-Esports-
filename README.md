@@ -46,9 +46,6 @@ Be a part of Alpha Core eSports and start your competitive journey today.
   </a>
   <br>
   <b>Instagram</b>
-
-  <br><br>
-
   <a href="https://youtube.com/@alphacorexesp?si=lby71LLZtH5q0Vxr">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>
   </a>
