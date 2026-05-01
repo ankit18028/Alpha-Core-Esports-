@@ -40,7 +40,20 @@ Whether you are a beginner or a pro player, you will get the opportunity to test
 Be a part of Alpha Core eSports and start your competitive journey today.
 👉 https://discord.gg/alpha-core-esports-1447857262369574954
 
----
+<p align="center">
+  <a href="https://www.instagram.com/alpha_ffevents?igsh=MTVoa3czNTEzeXU3bQ==">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
+  </a>
+  <br>
+  <b>Instagram</b>
 
+  <br><br>
+
+  <a href="https://youtube.com/@alphacorexesp?si=lby71LLZtH5q0Vxr">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>
+  </a>
+  <br>
+  <b>YouTube</b>
+</p>
 ⚠️ © Alpha Core eSports. All Rights Reserved.
 Unauthorized copying or use of this content is strictly prohibited.
